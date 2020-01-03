@@ -12,6 +12,8 @@ public class Demo {
 		String nameCompany = dev.getCompany("P.E.");
 		System.out.println("hello this : " + nameCompany);
 		
+		System.out.println("test git action");
+		
 	}
 	
 	private String getName(String userName) {
